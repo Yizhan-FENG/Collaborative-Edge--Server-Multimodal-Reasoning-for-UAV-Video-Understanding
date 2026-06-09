@@ -1,0 +1,15 @@
+{
+  "process_time": "2026-06-08 16:57:04",
+  "total_videos": 504,
+  "total_questions": 1572,
+  "successful": 0,
+  "failed": 1572,
+  "success_rate": "0.0%",
+  "questions_file": "/data3/health/wyy/data/QA/MSVD-QA/test_qa.json",
+  "jsonl_file": "/data3/health/wyy/BLIP2/experiment/Ablation_experiment/full_model/QA/qwen3_vl_results/video_qa_results_20260608_164438.jsonl",
+  "file_format": "JSONL (每行一个完整的问答结果)",
+  "results_summary": {
+    "success_count": 0,
+    "error_count": 1572
+  }
+}

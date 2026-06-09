@@ -1,0 +1,15 @@
+{
+  "process_time": "2026-04-16 19:23:21",
+  "total_videos": 504,
+  "total_questions": 1572,
+  "successful": 1372,
+  "failed": 200,
+  "success_rate": "87.3%",
+  "questions_file": "/data3/health/wyy/data/QA/MSVD-QA/test_qa.json",
+  "jsonl_file": "/data3/health/wyy/BLIP2/final/main_path/experiment/Ablation_experiment/only_keyframe/QA/qwen3_vl_results/video_qa_results_only_visual_20260416_173715.jsonl",
+  "experiment_type": "Ablation: Only Visual Keyframes (No Text Information)",
+  "results_summary": {
+    "success_count": 1372,
+    "error_count": 200
+  }
+}

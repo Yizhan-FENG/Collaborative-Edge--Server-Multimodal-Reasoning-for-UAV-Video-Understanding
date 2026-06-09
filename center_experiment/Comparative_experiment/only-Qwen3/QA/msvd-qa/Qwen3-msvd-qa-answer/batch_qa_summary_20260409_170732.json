@@ -1,0 +1,13 @@
+{
+  "process_time": "2026-04-09 18:41:14",
+  "total_videos": 50,
+  "total_questions": 1572,
+  "successful": 1558,
+  "failed": 14,
+  "success_rate": "99.1%",
+  "questions_file": "/data2/health/wyy/data/QA/MSVD-QA/test_qa.json",
+  "video_base_path": "/data2/health/wyy/data/QA/MSVD-QA/videos",
+  "output_file": "/data2/health/wyy/BLIP2/final/main_path/experiment/Comparative_experiment/only-Qwen3/QA/msvd-qa/Qwen3-msvd-qa-answer/direct_video_qa_results_20260409_170732.jsonl",
+  "model_used": "/data2/health/model/Qwen3-VL-8B-Instruct",
+  "device": "cuda:2"
+}

@@ -1,0 +1,14 @@
+{
+  "process_time": "2026-06-06 12:37:39",
+  "total_videos": 1000,
+  "successful": 0,
+  "failed": 1000,
+  "task_type": "video description (ablation: only keyframes)",
+  "jsonl_file": "/data3/health/wyy/BLIP2/experiment/Ablation_experiment/only_keyframe/description/qwen3_vl_results/video_analysis_results_only_keyframes_20260606_121520.jsonl",
+  "experiment_type": "Ablation: Only Keyframes (No Text Information)",
+  "file_format": "JSONL (每行一个完整的JSON对象)",
+  "results_summary": {
+    "success_count": 0,
+    "error_count": 1000
+  }
+}

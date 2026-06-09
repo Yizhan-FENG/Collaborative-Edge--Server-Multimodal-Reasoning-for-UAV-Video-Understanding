@@ -1,0 +1,13 @@
+{
+  "process_time": "2026-06-06 15:14:33",
+  "total_videos": 1000,
+  "successful": 1000,
+  "failed": 0,
+  "task_type": "视频描述",
+  "jsonl_file": "/data3/health/wyy/BLIP2/experiment/Ablation_experiment/without_summary_information/description/qwen3_vl_results/video_analysis_results_20260606_145110.jsonl",
+  "file_format": "JSONL (每行一个完整的JSON对象)",
+  "results_summary": {
+    "success_count": 1000,
+    "error_count": 0
+  }
+}

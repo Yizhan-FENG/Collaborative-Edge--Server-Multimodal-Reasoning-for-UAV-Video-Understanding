@@ -1,0 +1,72 @@
+{
+  "total_records": 1372,
+  "video_id_matches": 1372,
+  "video_id_match_rate": 100.0,
+  "question_matches": 1372,
+  "question_match_rate": 100.0,
+  "answer_matches": 408,
+  "answer_match_rate": 29.74,
+  "mismatch_count": 964,
+  "mismatched_answers_sample": [
+    {
+      "question_id": "37348",
+      "model_answer": "person",
+      "gt_answer": "someone",
+      "question": "who opened the box that held an automatic weapon in a gun?"
+    },
+    {
+      "question_id": "37349",
+      "model_answer": "box",
+      "gt_answer": "rifle",
+      "question": "what contains someone opens the lid of a corrugated cardboard?"
+    },
+    {
+      "question_id": "37350",
+      "model_answer": "person",
+      "gt_answer": "man",
+      "question": "who opens a box containing an assault rifle?"
+    },
+    {
+      "question_id": "37352",
+      "model_answer": "rifle",
+      "gt_answer": "someone",
+      "question": "what does the automatic rifle contain opens the lid of a corrugated cardboard?"
+    },
+    {
+      "question_id": "37353",
+      "model_answer": "person",
+      "gt_answer": "someone",
+      "question": "who is showing a gun in a box?"
+    },
+    {
+      "question_id": "37355",
+      "model_answer": "person",
+      "gt_answer": "man",
+      "question": "who opens up a box containing a gun?"
+    },
+    {
+      "question_id": "37358",
+      "model_answer": "box",
+      "gt_answer": "rifle",
+      "question": "what contains someone shows the automatic rifle?"
+    },
+    {
+      "question_id": "37359",
+      "model_answer": "person",
+      "gt_answer": "man",
+      "question": "who opens a box containing a rifle?"
+    },
+    {
+      "question_id": "37360",
+      "model_answer": "ammunition",
+      "gt_answer": "someone",
+      "question": "what does the automatic rifle contain shows the automatic rifle?"
+    },
+    {
+      "question_id": "37361",
+      "model_answer": "ammunition",
+      "gt_answer": "rifle",
+      "question": "what does the automatic rifle contain someone shows?"
+    }
+  ]
+}
